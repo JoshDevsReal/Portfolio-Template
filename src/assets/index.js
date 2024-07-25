@@ -1,12 +1,13 @@
 import bwmap from './backgrounds/bw-map.jpeg';
-import nairobi from './backgrounds/nairobi.png';
+import nairobi from './backgrounds/manila1.png';
 import whiteabstract from './backgrounds/white-abstract.png';
 import worldmap from './backgrounds/world-map.png';
 
-import logo from './logo/logo-black.png';
-import logotext from './logo/logo-text-black.png';
+import logo from './logo/Myst Legit.png';
+import logotext from './logo/UNK (1).png';
 
-import shaq from './personal/shaq.png';
+
+import medp from './personal/Paclibar.png'
 
 import backend from './icons/backend.png';
 import ux from './icons/ux.png';
@@ -24,40 +25,42 @@ import send from './icons/send.png';
 import sendHover from './icons/sendHover.png';
 
 import css from './tech/css.png';
-import docker from './tech/docker.png';
 import figma from './tech/figma.png';
 import git from './tech/git.png';
 import html from './tech/html.png';
 import javascript from './tech/javascript.png';
 import nodejs from './tech/nodejs.png';
 import reactjs from './tech/reactjs.png';
-import redux from './tech/redux.png';
-import tailwind from './tech/tailwind.png';
-import typescript from './tech/typescript.png';
-import graphql from './tech/graphql.png';
-import postgresql from './tech/postgresql.png';
-import rubyrails from './tech/rubyrails.png';
 
-import coverhunt from './company/coverhunt.png';
-import dcc from './company/dcc.png';
-import kelhel from './company/kelhel.png';
-import microverse from './company/microverse.png';
 
-import komikult from './projects/komikult.png';
-import leaderboard from './projects/leaderboard.png';
-import math from './projects/math-magicians.png';
-import movie from './projects/movie-metro.png';
-import nyeusi from './projects/nyeusi.png';
-import space from './projects/space-hub.png';
+
+import capcut from './tech/CapCut.png';
+import adobePr from './tech/adobe premiere pro.png';
+import adobePs from './tech/Pshop.png'
+import canva from './tech/Canva.png'
+import lightroom from './tech/LightRoom.png'
+import python from './tech/Python.png'
+import vlc from './tech/VLC.png'
+
+
+import ivl from './projects/IVL.png'
+import roster from './projects/RosterRevealThumbnail.jpg'
+
+import optogrow from './company/OptoGrow.png'
+import ivyl from './company/IvyL.png'
 
 export {
+  medp,
+  ivyl,
+  optogrow,
+  roster,
+  ivl,
   bwmap,
   nairobi,
   whiteabstract,
   worldmap,
   logo,
   logotext,
-  shaq,
   backend,
   ux,
   frontend,
@@ -73,27 +76,17 @@ export {
   send,
   sendHover,
   css,
-  docker,
   figma,
   git,
-  graphql,
   html,
   javascript,
   nodejs,
-  postgresql,
-  rubyrails,
   reactjs,
-  redux,
-  tailwind,
-  typescript,
-  komikult,
-  leaderboard,
-  math,
-  movie,
-  nyeusi,
-  space,
-  coverhunt,
-  dcc,
-  kelhel,
-  microverse,
+  capcut,
+  adobePr,
+  adobePs,
+  canva,
+  lightroom,
+  vlc,
+  python,
 };
